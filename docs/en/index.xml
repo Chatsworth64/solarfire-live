@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Solarfire</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://chatsworth64.github.io/solarfire-live/en/</link>
     <description>Recent content in Welcome on Solarfire</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>(c) Solarfire</copyright>
     <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chatsworth64.github.io/solarfire-live/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post 1</title>
-      <link>http://localhost:1313/en/blog/testpost1/</link>
+      <link>https://chatsworth64.github.io/solarfire-live/en/blog/testpost1/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/testpost1/</guid>
+      <guid>https://chatsworth64.github.io/solarfire-live/en/blog/testpost1/</guid>
       <description>Test Post 1 Heading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan, lacus nec venenatis bibendum, eros tortor tristique nisl, non interdum nibh nisl et eros. Nullam finibus tortor et egestas ultrices. Donec cursus egestas vestibulum. Sed ornare orci metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus velit magna, ullamcorper varius molestie in, ultricies ac massa. Nulla fringilla ipsum sit amet nunc viverra, sit amet mattis sapien faucibus.</description>
     </item>
     <item>
       <title>Test Post 2</title>
-      <link>http://localhost:1313/en/blog/testpost2/</link>
+      <link>https://chatsworth64.github.io/solarfire-live/en/blog/testpost2/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/blog/testpost2/</guid>
+      <guid>https://chatsworth64.github.io/solarfire-live/en/blog/testpost2/</guid>
       <description>Test Post 1 Heading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan, lacus nec venenatis bibendum, eros tortor tristique nisl, non interdum nibh nisl et eros. Nullam finibus tortor et egestas ultrices. Donec cursus egestas vestibulum. Sed ornare orci metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus velit magna, ullamcorper varius molestie in, ultricies ac massa. Nulla fringilla ipsum sit amet nunc viverra, sit amet mattis sapien faucibus.</description>
     </item>
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/en/about/</link>
+      <link>https://chatsworth64.github.io/solarfire-live/en/about/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
+      <guid>https://chatsworth64.github.io/solarfire-live/en/about/</guid>
       <description>John Smith Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
       <title>Cookie Policy</title>
-      <link>http://localhost:1313/en/cookiepolicy/</link>
+      <link>https://chatsworth64.github.io/solarfire-live/en/cookiepolicy/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/cookiepolicy/</guid>
+      <guid>https://chatsworth64.github.io/solarfire-live/en/cookiepolicy/</guid>
       <description>Cookie Usage Our website uses Cookies to help us provide you with a useful and reliable browsing experience and to help us improve our site. Cookies are small files of letters and numbers that are stored on your device. When someone visits our website, we collect standard internet log information and details of visitor behaviour patterns. We collect this information in a way which does not personally identify anyone.&#xA;Cookies are small text files that are placed on your device to help our website provide a better user experience.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/en/privacypolicy/</link>
+      <link>https://chatsworth64.github.io/solarfire-live/en/privacypolicy/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/privacypolicy/</guid>
+      <guid>https://chatsworth64.github.io/solarfire-live/en/privacypolicy/</guid>
       <description>This website is operated by Solarfire and whose registered address is &amp;ldquo;Solarfire Address&amp;rdquo; (“We”) are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us.&#xA;This policy sets out how we process any personal data we collect from you or that you provide to us through our website. We confirm that we will keep your information secure and that we will comply fully with all applicable UK Data Protection legislation and regulations.</description>
     </item>
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/en/services/</link>
+      <link>https://chatsworth64.github.io/solarfire-live/en/services/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/services/</guid>
+      <guid>https://chatsworth64.github.io/solarfire-live/en/services/</guid>
       <description>Service 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui. Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/contact/</link>
+      <link>https://chatsworth64.github.io/solarfire-live/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
+      <guid>https://chatsworth64.github.io/solarfire-live/en/contact/</guid>
       <description>Please send me a message using the form below. Name&#xD;E-mail address&#xD;Message&#xD;Send&#xD;</description>
     </item>
   </channel>
