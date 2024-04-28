@@ -1,7 +1,7 @@
 +++
 title = "About me"
 description = ""
-authors = ["Chatsworth"]
+authors = ["Solarfire"]
 date = "2022-06-01"
 layout = "about"
 +++

@@ -6,9 +6,9 @@ date = "2022-06-01"
 layout = "standard"
 +++
 
-This website is operated by Chatsworth and whose registered address is "Chatsworth Address" (“We”) are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us.
+This website is operated by Solarfire and whose registered address is "Solarfire Address" (“We”) are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us.
 
-This policy sets out how we process any personal data we collect from you or that you provide to us through our website. We confirm that we will keep your information secure and that we will comply fully with all applicable UK Data Protection legislation and regulations. Please read the following carefully to understand what happens to personal data that you choose to provide to us, or that we collect from you when you visit this site. By visiting https://chatsworth.cf (our website) you are accepting and consenting to the practices described in this policy.
+This policy sets out how we process any personal data we collect from you or that you provide to us through our website. We confirm that we will keep your information secure and that we will comply fully with all applicable UK Data Protection legislation and regulations. Please read the following carefully to understand what happens to personal data that you choose to provide to us, or that we collect from you when you visit this site. By visiting https://solarfire.live (our website) you are accepting and consenting to the practices described in this policy.
 
 ## Types of information we may collect from you
 

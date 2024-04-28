@@ -5,8 +5,7 @@ baseurl                 = "https://solarfire.live"
 defaultContentLanguage  = "en"
 defaultContentLanguageInSubdir = true
 title                   = "Solarfire"
-# theme                   = "hugo-future-imperfect-slim"
-theme                   = "ananke"
+theme                   = "hugo-future-imperfect-slim"
 paginate                = 5
 disqusShortname         = ""
 googleAnalytics         = "G-VT58T479HM"
@@ -45,7 +44,7 @@ enableRobotsTXT         = true
   author                = "Anon"
 
   [params.meta]
-    description         = "Solarfire Test Site"
+    description         = "Solarfire Live Site"
     author              = "Solarfire"
     favicon             = false
     svg                 = false
@@ -62,8 +61,8 @@ enableRobotsTXT         = true
     darkButton          = true
 
   [params.intro]
-    header                = "Solarfire Dev Site"
-    paragraph             = "Test Site for Hugo Deployment"
+    header                = "Solarfire"
+    paragraph             = "Live Site for Hugo Deployment"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = true
@@ -76,7 +75,7 @@ enableRobotsTXT         = true
       alt                 = "Solarfire"
 
   [params.sidebar]
-  #  about               = "tune-in to your potential"
+    about               = "Looking to the future"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
