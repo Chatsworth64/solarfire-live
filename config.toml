@@ -1,7 +1,7 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 
-baseurl                 = "https://chatsworth64.github.io/solarfire-live"
+baseurl                 = "https://solarfire.live/"
 defaultContentLanguage  = "en"
 defaultContentLanguageInSubdir = true
 title                   = "Solarfire"
