@@ -1,0 +1,193 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+
+baseurl                 = "https://solarfire.live"
+defaultContentLanguage  = "en"
+defaultContentLanguageInSubdir = true
+title                   = "Solarfire"
+# theme                   = "hugo-future-imperfect-slim"
+theme                   = "ananke"
+paginate                = 5
+disqusShortname         = ""
+googleAnalytics         = "G-VT58T479HM"
+pluralizeListTitles     = true
+disableLanguages        = []
+copyright               = "(c) Solarfire"
+publishDir              = "docs"
+enableRobotsTXT         = true
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[module]
+  [module.hugoVersion]
+  extended              = true
+  min                   = "0.62.0"
+
+[outputs]
+  home                  = ["html", "json", "rss"]
+
+[params]
+  enableCDN             = true
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = ""
+  highlightjsLang       = []
+  viewMorePostsLink     = "blog"
+  readingTime           = true
+  imageStretch          = "h"
+  removeBlur            = false
+  socialShare           = ["twitter", "facebook", "linkedin", "email"]
+  hideEmptyStats        = false
+  toc                   = true
+  tocWords              = 400
+  author                = "Anon"
+
+  [params.meta]
+    description         = "Solarfire Test Site"
+    author              = "Solarfire"
+    favicon             = false
+    svg                 = false
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+  [params.header]
+    navbarTitle         = "Homepage"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = false
+    darkButton          = true
+
+  [params.intro]
+    header                = "Solarfire Dev Site"
+    paragraph             = "Test Site for Hugo Deployment"
+    rssIntro              = true
+    socialIntro           = true
+    hideWhenSingleColumn  = true
+    alwaysOnHomepage      = true
+
+    [params.intro.pic]
+      src                 = "img/logo.webp"
+      shape               = "circle"
+      width               = ""
+      alt                 = "Solarfire"
+
+  [params.sidebar]
+  #  about               = "tune-in to your potential"
+    postAmount          = 5
+    categories          = true
+    categoriesByCount   = true
+    tags                = true
+    tagsByCount         = true
+
+  [params.footer]
+    rssFooter           = true
+    socialFooter        = true
+
+  [params.utterances]
+    enabled             = false
+    repo                = ""
+    issueTerm           = "pathname"
+    issueNumber         = ""
+    label               = ""
+    theme               = "github-light"
+
+  [params.staticman]
+    enabled             = false
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = true
+  
+  [privacy.instagram]
+    disable = true
+    simple = false
+  
+  [privacy.twitter]
+    disable = true
+    enableDNT = true
+    simple = true
+  
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = true
+  
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+[menu]
+
+  [[menu.main]]
+    name              = "About"
+    identifier        = "about"
+    url               = "about"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "Blog"
+    identifier        = "blog"
+    url               = "blog"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Services"
+    identifier        = "services"
+    url               = "services"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "contact"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 4
+
+[Languages]
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
+
+[social]
+  # Coding Communities
+  github                = ""
+  gitlab                = ""
+  wordpress             = ""
+  # Professional/Business Oriented Communities
+  linkedin              = ""
+  linkedin_company      = ""
+  # Social Networks
+  facebook              = ""
+  googleplus            = ""
+  youtube               = ""
+  vimeo                 = ""
+  whatsapp              = "" # WhatsApp Number
+  instagram             = ""
+  twitter               = ""
+  skype                 = ""
+  snapchat              = ""
+  # Email
+  email                 = "info@solarfire.dev"

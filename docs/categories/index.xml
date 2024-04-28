@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Chatsworth</title>
+    <link>https://chatsworth.cf/categories/</link>
+    <description>Recent content in Categories on Chatsworth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>(c) Chatsworth</copyright>
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TestCategory1</title>
+      <link>https://chatsworth.cf/categories/testcategory1/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/categories/testcategory1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TestCategory2</title>
+      <link>https://chatsworth.cf/categories/testcategory2/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/categories/testcategory2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
